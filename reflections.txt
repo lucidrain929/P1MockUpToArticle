@@ -1,0 +1,11 @@
+1 What new skills have you learned?
+I have learnt how to use HTML to modify to make the page more readable
+
+2 What has been easy?
+It is easy that you only add tags right close to your HTML content. I dont need to apply complex logic or rules to use HTML
+
+3 What has been difficult?
+The difficult part is to find the correct tag to achieve the page effect you want.
+
+4 How have you used the problem solving strategies from the first project to overcome challenges so far?
+I will search for youtube videos or W3schools.com.
